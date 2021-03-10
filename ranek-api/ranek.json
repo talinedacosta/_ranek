@@ -1,0 +1,148 @@
+{
+  "transacao": [
+    {
+      "purchaser_id": "andre@origamid.com",
+      "seller_id": "andre@origamid.com",
+      "product": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "andre@origamid.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo smartphone.",
+        "fotos": null
+      },
+      "address": {
+        "zipcode": "12345678",
+        "street": "Rua Ali Perto",
+        "streetNumber": "150",
+        "neighborhood": "Esse Mesmo",
+        "city": "Rio de Janeiro",
+        "state": "RJ"
+      },
+      "id": 1
+    },
+    {
+      "purchaser_id": "teste@gmail.com",
+      "seller_id": "andre@origamid.com",
+      "product": {
+        "id": "smartphone",
+        "nome": "Smartphone",
+        "usuario_id": "andre@origamid.com",
+        "preco": "1999",
+        "vendido": "false",
+        "descricao": "Esse é um novo smartphone.",
+        "fotos": null
+      },
+      "address": {
+        "zipcode": "22020-001",
+        "street": "Avenida Nossa Senhora de Copacabana",
+        "streetNumber": "99",
+        "neighborhood": "Copacabana",
+        "city": "Rio de Janeiro",
+        "state": "RJ"
+      },
+      "id": 2
+    }
+  ],
+  "usuario": [
+    {
+      "id": "andre@origamid.com",
+      "email": "andre@origamid.com",
+      "name": "André Rafael",
+      "password": "123",
+      "street": "Rua Ali Perto",
+      "zipcode": "12345678",
+      "streetNumber": "25",
+      "neighborhood": "Porto",
+      "city": "RJ",
+      "state": "Rio de Janeiro"
+    },
+    {
+      "id": "teste@gmail.com",
+      "email": "teste@gmail.com",
+      "name": "Teste Rafael",
+      "password": "123",
+      "street": "Rua Ali Perto",
+      "zipcode": "12345678",
+      "streetNumber": "25",
+      "neighborhood": "Porto",
+      "city": "RJ",
+      "state": "Rio de Janeiro"
+    }
+  ],
+  "produto": [
+    {
+      "id": "notebook",
+      "nome": "Notebook 1",
+      "usuario_id": "andre@origamid.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone2",
+      "nome": "Smartphone 2",
+      "usuario_id": "andre@origamid.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "tablet",
+      "nome": "Tablet 1",
+      "usuario_id": "andre@origamid.com",
+      "preco": "1399",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet.",
+      "fotos": null
+    },
+    {
+      "id": "notebook2",
+      "nome": "Notebook 2",
+      "usuario_id": "andre@origamid.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "smartphone3",
+      "nome": "Smartphone 3",
+      "usuario_id": "andre@origamid.com",
+      "preco": "1999",
+      "vendido": "false",
+      "descricao": "Esse é um novo smartphone.",
+      "fotos": null
+    },
+    {
+      "id": "tablet2",
+      "nome": "Tablet 2",
+      "usuario_id": "andre@origamid.com",
+      "preco": "1399",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet.",
+      "fotos": null
+    },
+    {
+      "id": "notebook4",
+      "nome": "Notebook 4",
+      "usuario_id": "andre@origamid.com",
+      "preco": "4999",
+      "vendido": "false",
+      "descricao": "Esse é um novo notebook.",
+      "fotos": null
+    },
+    {
+      "id": "tablet3",
+      "nome": "Tablet 3",
+      "usuario_id": "andre@origamid.com",
+      "preco": "1399",
+      "vendido": "false",
+      "descricao": "Esse é um novo tablet.",
+      "fotos": null
+    }
+  ]
+}
